@@ -1,0 +1,15 @@
+{
+  "name": "fizzBuzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Rupam Gupta",
+  "license": "ISC",
+  "description": "Learn about how to test the particular code"
+}
